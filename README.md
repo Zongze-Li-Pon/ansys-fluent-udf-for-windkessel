@@ -78,15 +78,6 @@ Typical outputs include:
 
 ---
 
-## Requirements
-
-- ANSYS Fluent
-- User-Defined Functions (UDFs)
-- User-Defined Memory (UDM)
-- Transient simulation
-
----
-
 ## Documentation
 
 A detailed tutorial is available on my personal website, including:
@@ -97,6 +88,8 @@ A detailed tutorial is available on my personal website, including:
 - UDM usage
 - Fluent setup and hooking
 - Full source code
+
+---
 
 ### For more detail
 
